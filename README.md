@@ -1,2 +1,3 @@
 # hello-world
-my first repository! code wars stat now!
+my first repository! code wars start now!
+I have flu!
